@@ -1,4 +1,5 @@
 {
   "description": "Checking https://my-json-server.typicode.com",
-  "created": "20180116"
+  "created": "20180116",
+  "inner": {"desctiption": "inner data"}
 }
